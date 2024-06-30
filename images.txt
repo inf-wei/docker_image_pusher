@@ -1,5 +1,5 @@
 #支持私库
-opensearchproject/opensearch-dashboards:2.13.0
+prom/prometheus:v2.52.0
 
 
 
