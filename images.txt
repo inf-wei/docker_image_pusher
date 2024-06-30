@@ -1,5 +1,5 @@
 #支持私库
-grafana/grafana:10.4.2
+opensearchproject/opensearch-dashboards:2.13.0
 
 
 
