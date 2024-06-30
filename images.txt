@@ -1,6 +1,14 @@
 nginx
 #支持私库
-k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
-xhofe/alist:latest
+nacos/mysql:8.0.30
+bitnami/redis:latest
+mysql:8.0.31
+rabbitmq:3-management
+opensearchproject/opensearch:2.13.0
+bitnami/zookeeper:3.9
+bitnami/kafka:3.4
+provectuslabs/kafka-ui:latest
+nacos/nacos-server:v2.3.1
+grafana/grafana:10.4.2
 #支持指定架构
---platform=linux/arm64 xiaoyaliu/alist
+--platform=linux/x86_64 infwei/alist
