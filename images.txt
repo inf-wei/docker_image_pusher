@@ -1,5 +1,5 @@
 #支持私库
-prom/prometheus:v2.52.0
+vaultwarden/server:1.30.5
 
 
 
